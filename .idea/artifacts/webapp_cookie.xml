@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="webapp_cookie">
+    <output-path>$PROJECT_DIR$/out/artifacts/webapp_cookie</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="webapp_cookie" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.10.1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="webapp_cookie/web/Web" />
+    </root>
+  </artifact>
+</component>
